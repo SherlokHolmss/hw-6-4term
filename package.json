@@ -1,16 +1,24 @@
 {
-  "name": "hw-6",
+  "name": "goit-js-hw-parcel",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
   "scripts": {
-    "start": "parcel src/index.html",
+    "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
     "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SherlokHolmss/hw-6-4term.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SherlokHolmss/hw-6-4term/issues"
+  },
+  "homepage": "https://github.com/SherlokHolmss/hw-6-4term/",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "parcel": "^2.14.4"
