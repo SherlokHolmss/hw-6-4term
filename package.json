@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-parcel",
+  "name": "hw-6-4term",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,18 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SherlokHolmss/hw-6-4term.git"
+    "url": "git+https://github.com/SherlokHolmss/hw-7-4term.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/SherlokHolmss/hw-6-4term/issues"
+    "url": "https://github.com/SherlokHolmss/hw-7-4term/issues"
   },
-  "homepage": "https://github.com/SherlokHolmss/hw-6-4term/",
+  "homepage": "https://SherlokHolmss.github.io/hw-7-4term/",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7"
   }
 }
